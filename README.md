@@ -5,7 +5,7 @@ This project focuses on **customer churn analysis** for a telecommunications com
 
 This project integrates **SQL**, **Python**, and **Power BI** to build an **end-to-end data analytics and prediction pipeline**.
 
-📝 The complete analysis, and results are documented in the Jupyter Notebook: **`churn_analysis.ipynb`**.
+📝 The complete analysis, visualization and results are documented in the Jupyter Notebook: **`Customer Churn Prediction.ipynb`**.
 
 
 ---
