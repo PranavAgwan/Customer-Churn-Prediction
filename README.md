@@ -5,6 +5,9 @@ This project focuses on **customer churn analysis** for a telecommunications com
 
 This project integrates **SQL**, **Python**, and **Power BI** to build an **end-to-end data analytics and prediction pipeline**.
 
+📝 The complete analysis, and results are documented in the Jupyter Notebook: **`churn_analysis.ipynb`**.
+
+
 ---
 
 ## ⚙️ Methodology
@@ -83,7 +86,8 @@ The findings help the telecom company design **data-driven retention strategies*
 ---
 
 ## 👤 Author
-**Pranav Agwan**  
+Name : **Pranav Agwan** 
+
 📧 Mail : agwanpranav123@gmail.com 
 
 🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
