@@ -1,9 +1,7 @@
 # 📊 Customer Churn Prediction
 
 ## 🧠 Introduction
-This project focuses on **customer churn analysis** for a telecommunications company.  
-Customer churn refers to the percentage of customers who discontinue their services during a specific period.  
-By identifying churn drivers and predicting at-risk customers, businesses can implement targeted retention strategies and improve overall satisfaction.
+This project focuses on **customer churn analysis** for a telecommunications company. Customer churn refers to the percentage of customers who discontinue their services during a specific period. By identifying churn drivers and predicting at-risk customers, businesses can implement targeted retention strategies and improve overall satisfaction.
 
 This project integrates **SQL**, **Python**, and **Power BI** to build an **end-to-end data analytics and prediction pipeline**.
 
