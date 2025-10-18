@@ -84,5 +84,5 @@ The findings help the telecom company design **data-driven retention strategies*
 
 ## 👤 Author
 **Pranav Agwan**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [Portfolio / Website]
+📧 agwanpranav123@gmail.com 
+🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
