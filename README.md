@@ -55,6 +55,14 @@ This project integrates **SQL**, **Python**, and **Power BI** to build an **end-
 - **Average Tenure:** ~32 months  
 - Dashboard visuals made it easy to identify high-risk customer groups and retention opportunities.
 
+### 📸 Dashboard Preview
+
+![Dashboard Preview1](dashboard_preview1.png)
+
+
+![Dashboard Preview2](dashboard_preview2.png)
+
+
 ---
 
 ## 🧾 Conclusion
@@ -73,15 +81,6 @@ The findings help the telecom company design **data-driven retention strategies*
 | **SQL (MySQL)** | Data extraction and cleaning |
 | **Python (Pandas, Scikit-learn, XGBoost, Matplotlib)** | Data analysis and modeling |
 | **Power BI** | Visualization and insights |
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview1](dashboard_preview1.png)
-
-
-![Dashboard Preview2](dashboard_preview2.png)
 
 ---
 
