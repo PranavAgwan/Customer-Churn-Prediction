@@ -57,8 +57,12 @@ This project integrates **SQL**, **Python**, and **Power BI** to build an **end-
 
 ### 📸 Dashboard Preview
 
+#### Page 1 : Customer Churn Overview
+
 ![Dashboard Preview1](dashboard_preview1.png)
 
+
+#### Page 2 : Churn Pattern by Customer Segments
 
 ![Dashboard Preview2](dashboard_preview2.png)
 
