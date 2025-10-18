@@ -74,9 +74,10 @@ The findings help the telecom company design **data-driven retention strategies*
 ---
 
 ## 📸 Dashboard Preview
-*(Add a Power BI screenshot here)*  
-Example:  
+
 ![Dashboard Preview1](dashboard_preview1.png)
+
+
 ![Dashboard Preview2](dashboard_preview2.png)
 
 ---
